@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/efab"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|center"
+    android:layout_marginEnd="@dimen/fab_margin"
+    android:layout_marginBottom="16dp"
+    android:contentDescription="@string/FAB_content_main"
+    android:text="@string/copy_text"
+    android:textStyle="bold"
+    app:icon="@android:drawable/ic_menu_save"
+    app:iconGravity="textEnd"
+    tools:showIn="@layout/activity_main" />

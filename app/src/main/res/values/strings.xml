@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="action_settings">Settings</string>
+    <string name="FAB_content_main">Copy</string>
+    <string name="copy_text">Copy</string>
+    <string name="hintText">Type Something</string>
+    <string name="instructions">This app echoes whatever you type into it.</string>
+    <string name="about_text">About: \nCreated by Avi Maltz</string>
+</resources>
